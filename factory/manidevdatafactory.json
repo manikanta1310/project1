@@ -1,0 +1,9 @@
+{
+	"name": "manidevdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa7e48ce-9755-4adc-b4e2-183c69afab91",
+		"tenantId": "336d3879-02d8-4868-88eb-398260a7cd2b"
+	}
+}
